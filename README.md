@@ -18,7 +18,6 @@ Sou **Desenvolvedor de Software Full‑stack** especializado em Flutter, JS/TS, 
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipedefendi&show_icons=true&theme=default" alt="Felipe's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedefendi&layout=compact&hide=html,css&theme=default" alt="Top Langs" />
 </p>
 
