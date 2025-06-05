@@ -13,7 +13,6 @@ Sou **Desenvolvedor de Software Full‑stack** especializado em Flutter, JS/TS, 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## 📈 GitHub Stats
