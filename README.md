@@ -25,9 +25,6 @@ Sou **Desenvolvedor de Software Full‑stack** especializado em Flutter, JS/TS, 
 |---------|-------------|-----------|------|
 | [rickAndMortyApi](https://github.com/felipedefendi/rickAndMortyApi) | TypeScript, Nest.js | API REST da série Rick & Morty, seguindo Clean Architecture e TDD | – |
 | [faxinateste](https://github.com/felipedefendi/faxinateste) | Flutter | App mobile para agendamento de faxinas, integração com Firebase | (GIF ou vídeo aqui) |
-| [prova-crud-back](https://github.com/felipedefendi/prova-crud-back) | Go, Fiber | CRUD de produtos com testes unitários e Docker | – |
-| [prova-crud-front](https://github.com/felipedefendi/prova-crud-front) | React, Vite | Front‑end para o CRUD acima, consumo de API e Paginação | – |
-
 
 
 ## 🤝 Conectar‑se comigo
