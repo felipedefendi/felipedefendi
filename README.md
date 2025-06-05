@@ -30,7 +30,3 @@ Sou **Desenvolvedor de Software Full‑stack** especializado em Flutter, JS/TS, 
 ## 🤝 Conectar‑se comigo
 <a href="https://www.linkedin.com/in/felipe-defendi-43215b209/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)</a>
 <a href="mailto:felipedefendi@users.noreply.github.com">![E‑mail](https://img.shields.io/badge/E‑mail-D14836?style=flat&logo=gmail&logoColor=white)</a>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=felipedefendi&style=flat" alt="profile views"/>
