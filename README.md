@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-Sou **Desenvolvedor de Software Full‑stack** especializado em Flutter, JS/TS, Node.js/Nest.js, React.js, Vue.js, React Native). Gosto de transformar ideias em produtos simples, escaláveis e com ótimo UX.
+Sou **Desenvolvedor de Software Full‑stack** especializado em Flutter, JS/TS, Node.js/Nest.js, React.js, Vue.js, React Native. Gosto de transformar ideias em produtos simples, escaláveis e com ótimo UX.
 
 - 📍 Maringá‑PR, Brasil  
 
