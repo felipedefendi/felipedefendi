@@ -15,16 +15,6 @@ Sou **Desenvolvedor de Software Full‑stack** especializado em Flutter, JS/TS, 
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedefendi&layout=compact&hide=html,css&theme=default" alt="Top Langs" />
-</p>
-
-## 🚀 Projetos em Destaque
-| Projeto | Tecnologias | Descrição | Demo |
-|---------|-------------|-----------|------|
-| [rickAndMortyApi](https://github.com/felipedefendi/rickAndMortyApi) | TypeScript, Nest.js | API REST da série Rick & Morty 
-| [faxinateste](https://github.com/felipedefendi/faxinateste) | Flutter | App mobile para agendamento de faxinas
 
 
 ## 🤝 Conectar‑se comigo
